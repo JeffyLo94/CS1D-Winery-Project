@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CanyonVilla.jpg</file>
+        <file>cvilla2.jpg</file>
+        <file>wineHeart.jpg</file>
+        <file>hotelWithPool.jpg</file>
+        <file>hotel2.jpg</file>
+        <file>hotel3.jpg</file>
+        <file>hotelRoom.jpg</file>
+        <file>wineCellar.jpg</file>
+        <file>grapes.jpg</file>
+        <file>Capture.JPG</file>
+        <file>canyon2.JPG</file>
+        <file>smallCanyon2.JPG</file>
+        <file>adelaidaCellars.jpg</file>
+        <file>cass.jpg</file>
+        <file>cass2.jpg</file>
+        <file>castrorCellars.jpg</file>
+        <file>chumeia.jpg</file>
+        <file>chumeia2.jpg</file>
+        <file>erberle.jpg</file>
+        <file>erberle2.jpg</file>
+        <file>hunt.jpg</file>
+        <file>janKris.jpg</file>
+        <file>lavent.jpg</file>
+        <file>lavent2.jpg</file>
+        <file>lavent3.jpg</file>
+        <file>norman.jpg</file>
+        <file>norman2.jpg</file>
+        <file>opolo.jpg</file>
+        <file>pipestone.jpg</file>
+        <file>pipestone2.jpg</file>
+        <file>tablas.jpg</file>
+        <file>tablas2.jpg</file>
+        <file>oldbottles.jpg</file>
+    </qresource>
+</RCC>
